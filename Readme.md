@@ -1,6 +1,5 @@
 # Immowelt - Dataenerfassung und Datenanalyse
 
-Analytics.ipynb
 #Requirements:
 - BeautifulSoup version: 4.9.3
 - Requests version: 2.25.1
